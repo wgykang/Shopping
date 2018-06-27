@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="835606b1-b9af-4808-aacf-4af0aaade60e" name="shop" url="http://203.195.162.142:8000/index/#/app/home/index">
+        <fileTransfer host="203.195.162.142" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f3e95ef9-7bd5-4ee1-8821-4d96973a0108" name="mxshop" url="http://203.195.162.142:8000/index/#/app/home/index">
+        <fileTransfer host="203.195.162.142" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
